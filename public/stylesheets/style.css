@@ -1,0 +1,36 @@
+body{
+  background-color: #9DC3C1;
+}
+
+nav{
+  background-image:url('https://cdn.pixabay.com/photo/2020/06/16/12/59/cookies-5305599__340.jpg');
+}
+
+#img{
+  margin-top: 35px;
+  background-color:#77AAAD;
+  width: 800px
+ }
+
+#button1{
+  margin-top: 50px;
+  color: white;
+}
+
+.trashTalk{
+  width: 500px;
+  height: 100px;
+  margin-left:10px;
+ }
+
+.trashTalkContent{
+  margin-left: 20px;
+  margin-top:30px;
+}
+
+.staff{
+  margin:10px;
+  padding-top:10px;
+  padding-right: 50px;
+  margin-left: 20px;
+}
